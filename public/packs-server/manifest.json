@@ -1,0 +1,4 @@
+{
+  "application.js": "/packs-server/application.js",
+  "hello.js": "/packs-server/hello.js"
+}

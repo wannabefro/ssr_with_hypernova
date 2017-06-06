@@ -29,6 +29,10 @@ development:
     port: 8080
     https: false
 
+server:
+  <<: *default
+  public_output_path: packs-server
+
 test:
   <<: *default
 
